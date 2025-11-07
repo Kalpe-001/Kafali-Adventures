@@ -1,0 +1,164 @@
+Ah! Got it — you just want the **“Highlights”** section extended to about 50 words per package. Here’s a polished version:
+
+---
+
+**TREKKING PACKAGES**
+
+1. **Api Base Camp**
+   Breathtaking views of Api Himal, remote Himalayan villages, pristine glaciers, and alpine meadows. Experience authentic local culture, challenging trails, and high-altitude adventure. Perfect for trekkers seeking solitude, natural beauty, and a true off-the-beaten-path Himalayan experience in the far-western region of Nepal.
+
+2. **Khaptad National Park**
+   Lush forests, rolling hills, serene lakes, and diverse flora and fauna. Walk peaceful trails connecting small villages, discover local traditions, and enjoy tranquil natural landscapes. Ideal for moderate trekkers seeking a combination of nature, culture, and a quiet, less-crowded trekking experience in western Nepal.
+
+3. **Saipal Base Camp**
+   Stunning panoramic peaks, glaciers, alpine meadows, and remote villages. Experience far-western Nepal’s natural beauty, cultural immersion, and challenging trekking routes. Perfect for adventurous trekkers seeking isolation, adventure, and untouched Himalayan landscapes far from mainstream trekking trails.
+
+---
+
+**TOUR PACKAGES**
+
+1. **Rara Lake Tour**
+   Turquoise waters of Nepal’s largest lake, surrounding hills, and peaceful landscapes. Explore local Mugu culture, enjoy easy trekking and photography opportunities, and immerse yourself in serene natural beauty. Ideal for travelers looking for a short, scenic escape in a pristine, untouched part of Nepal.
+
+2. **Shey Phoksundo National Park**
+   Stunning Phoksundo Lake, Tibetan-influenced villages, diverse wildlife, and spectacular Himalayan landscapes. Moderate trekking with cultural experiences, wildlife observation, and photography opportunities. Perfect for adventurers wanting a combination of natural beauty, traditional culture, and exploration of one of Nepal’s most pristine national parks.
+
+3. **Mustang Tour**
+   Ancient Lo Manthang palace, monasteries, Tibetan culture, arid valleys, and unique desert-like landscapes. Moderate trekking through historic sites and interactions with local communities. Ideal for travelers seeking culture, history, and adventure in one of Nepal’s most unique and historically rich regions.
+
+---
+
+**SHUKLAPHANTA ADVENTURES**
+
+1. **Jungle Safari**
+   Explore Shuklaphanta National Park’s grasslands and forests, spot elephants, deer, and exotic birds. Enjoy guided jeep safaris, scenic landscapes, and wildlife photography. Perfect for families and wildlife enthusiasts seeking a short, accessible jungle adventure in southern Nepal.
+
+2. **Jungle Walk**
+   Guided walk through forests and grasslands, observe wildlife, birds, and flora up close. Peaceful trails, educational experiences about local ecosystems, and opportunities to connect with nature. Suitable for all ages and fitness levels seeking an immersive jungle exploration.
+
+3. **Rafting**
+   Thrilling rafting experience through scenic river valleys. Adventure-filled yet safe with expert guides and safety equipment. Perfect for adrenaline seekers and nature lovers, combining excitement, natural beauty, and the unique river landscapes of western Nepal.
+
+---
+
+If you want, I can **also merge all of this into a single “package card” layout** ready for mobile-first HTML/CSS, with highlights, duration, difficulty, and images. This will make your site look professional.
+
+Do you want me to do that?
+
+
+
+
+
+
+
+Api Base Camp
+
+Duration: 12–14 days
+
+Difficulty: Hard
+
+Highlights: Stunning views of Api Himal, remote villages, high-altitude trekking experience.
+
+Inclusions: Guide, porters, accommodation (tea houses/camps), meals.
+
+Best Time: April–May, September–October
+
+Khaptad National Park
+
+Duration: 5–7 days
+
+Difficulty: Moderate
+
+Highlights: Lush forests, diverse flora & fauna, serene landscapes, Khaptad Lake.
+
+Inclusions: Guide, lodging, meals, park permits.
+
+Best Time: March–May, September–November
+
+Saipal Base Camp
+
+Duration: 14–16 days
+
+Difficulty: Hard
+
+Highlights: Isolated Himalayan adventure, glaciers, panoramic peaks, traditional culture of far-western Nepal.
+
+Inclusions: Guide, porters, camping/teahouse accommodation, meals.
+
+Best Time: April–May, September–October
+
+TOUR PACKAGES
+
+Rara Lake Tour
+
+Duration: 3–4 days
+
+Difficulty: Easy–Moderate
+
+Highlights: Largest lake in Nepal, turquoise waters, surrounding hills, local culture of Mugu.
+
+Inclusions: Transport, lodging, guide, meals.
+
+Best Time: April–June, September–November
+
+Shey Phoksundo National Park
+
+Duration: 7–9 days
+
+Difficulty: Moderate–Hard
+
+Highlights: Phoksundo Lake, Tibetan culture, Himalayan flora & fauna.
+
+Inclusions: Guide, lodge/camp, meals, park entry.
+
+Best Time: March–May, September–October
+
+Mustang Tour
+
+Duration: 10–12 days
+
+Difficulty: Moderate
+
+Highlights: Ancient Tibetan culture, arid landscapes, Lo Manthang palace, monasteries.
+
+Inclusions: Guide, lodging, meals, permits.
+
+Best Time: March–May, September–October
+
+SHUKLAPHANTA ADVENTURES
+
+Jungle Safari
+
+Duration: 1–2 days
+
+Difficulty: Easy
+
+Highlights: Wildlife spotting (elephants, deer, birds), jeep safari in Shuklaphanta National Park.
+
+Inclusions: Transport, guide, park entry, accommodation.
+
+Best Time: November–April
+
+Jungle Walk
+
+Duration: Half-day to 1 day
+
+Difficulty: Easy
+
+Highlights: Walking trails, birdwatching, grasslands and forest exploration.
+
+Inclusions: Guide, park entry.
+
+Best Time: November–April
+
+Rafting
+
+Duration: Half-day to full day
+
+Difficulty: Moderate
+
+Highlights: Thrilling rafting experience, scenic river valleys.
+
+Inclusions: Equipment, safety gear, guide/instructor.
+
+Best Time: October–May
