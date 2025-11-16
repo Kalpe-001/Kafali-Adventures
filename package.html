@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Package Details</title>
+  <link rel="stylesheet" href="style2.css">
+  
+</head>
+<body>
+
+  <div class="package-details">
+    <img id="pkgImage" src="" alt="">
+    <div class="info">
+        <h1 id="pkgTitle"></h1>
+    <p id="pkgDesc" class="info"></p>
+    </div>
+    <div>
+      <span id="pkgDuration" class="duration"></span>
+      <span id="pkgDifficulty" class="difficulty"></span>
+    </div>
+  </div>
+  <button class="back-btn" onclick="window.history.back()">Back</button>
+
+  <script>
+    const pkg = JSON.parse(localStorage.getItem('selectedPackage'));
+    if (pkg) {
+      document.getElementById('pkgImage').src = pkg.image;
+      document.getElementById('pkgTitle').textContent = pkg.title;
+      document.getElementById('pkgDesc').textContent = pkg.desc;
+      document.getElementById('pkgDuration').textContent = pkg.duration;
+      document.getElementById('pkgDifficulty').textContent = pkg.difficulty;
+    } else {
+      document.body.innerHTML = "<h2 style='text-align:center'>No package selected.</h2>";
+    }
+  </script>
+
+</body>
+</html>

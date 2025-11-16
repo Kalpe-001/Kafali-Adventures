@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(40,40,40);
+  font-family: Inter;
+}
+.package-details{
+  margin: 3rem;
+  background-color: rgb(240,240,240);
+  padding: 3rem;
+  border-radius: 2rem;
+  display: flex;
+}
+.package-details img{
+  border-radius: 2rem;
+  width: 70%;
+}
+.back-btn{
+  display: block;
+  margin-left:auto ;
+  margin-right: auto;
+  width: 7rem;
+  height: 3rem;
+  background-color: rgb(82, 133, 82);
+  border: none;
+  border-radius: 1rem;
+  transition: .2s all;
+  color: white;
+  font-size: 1.2em;
+  font-weight: 700;
+}
+.back-btn:hover{
+  transform: translateY(-5px);
+}
